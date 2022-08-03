@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}.popUp{
+  display:none;
+  position: absolute;
+  top: 0%;
+  left: 40%;
+}
+.popUpBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 180px;
+  padding: 10px;
+}
+
+
